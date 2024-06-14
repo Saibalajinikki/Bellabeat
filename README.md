@@ -1,4 +1,3 @@
-```markdown
 # Bellabeat Data Analysis
 
 ## Project Overview
