@@ -82,10 +82,6 @@ Based on the analysis, the following strategies are recommended to improve user 
 3. **Engagement Programs:** Implement programs like monthly challenges and referral bonuses to foster community and competition.
 4. **Educational Content:** Provide workshops and webinars on health and wellness topics to add value to the user experience.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - The data used in this project was sourced from Kaggle.
